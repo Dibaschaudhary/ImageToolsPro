@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://imagetoolspro.com/</loc>
+    <lastmod>2026-08-03</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Categories -->
+  <url>
+    <loc>https://imagetoolspro.com/#/category/compression-conversion</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://imagetoolspro.com/#/category/editing-adjustments</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://imagetoolspro.com/#/category/transforms</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://imagetoolspro.com/#/category/security-watermark</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://imagetoolspro.com/#/category/developer-utilities</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Image Tools -->
+  <url><loc>https://imagetoolspro.com/#/tools/image-compressor</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/image-resizer</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/crop-image</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/rotate-image</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/flip-image</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/jpg-to-png</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/png-to-jpg</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/webp-to-png</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/png-to-webp</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/image-quality-adjuster</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/add-watermark</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/blur-image</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/brightness-adjuster</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/contrast-adjuster</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/saturation-adjuster</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/grayscale-converter</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/image-to-base64</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/base64-to-image</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/extract-dimensions</loc><priority>0.9</priority></url>
+  <url><loc>https://imagetoolspro.com/#/tools/download-optimized</loc><priority>0.9</priority></url>
+
+  <!-- Content & Legal Pages -->
+  <url><loc>https://imagetoolspro.com/#/about</loc><priority>0.5</priority></url>
+  <url><loc>https://imagetoolspro.com/#/privacy</loc><priority>0.5</priority></url>
+  <url><loc>https://imagetoolspro.com/#/terms</loc><priority>0.5</priority></url>
+  <url><loc>https://imagetoolspro.com/#/contact</loc><priority>0.5</priority></url>
+</urlset>

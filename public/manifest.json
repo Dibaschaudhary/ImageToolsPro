@@ -1,0 +1,17 @@
+{
+  "name": "ImageTools Pro - Free Online Browser Image Editor",
+  "short_name": "ImageTools Pro",
+  "description": "Fast, modern, browser-based image compression, resizing, conversion, cropping, and photo editing suite.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
